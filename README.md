@@ -8,7 +8,8 @@ This includes:
     - TexStudio or TexMaker (for extra features that may be useful)
 - Links to useful information, learning material and guides I found online. 
 
---- <!-- Intentional separator. In GitHub website, there are extra separators after every heading I think. -->
+--- 
+<!-- Intentional separator. In GitHub website, there are extra separators after every heading I think. -->
 
 ## Links for Research before Installation
 The things I looked at to decide what to install, why and how.
@@ -52,4 +53,19 @@ The things I looked at to decide what to install, why and how.
 - All local versions need Perl to be installed for full functionality.
 - Optional but probably useful extensions available in VSCode.
 
+## Introduction to coding in LaTeX
+Learning material, tips and tricks, etc.
+
+- freecodecamp - https://www.youtube.com/watch?v=ydOTMQC7np0
+    - The tutorial files from the video are in the `michelle_krummel_files` directory.
+        - Tutorial 1: Introduction
+        - Tutorial 2: Common Mathematical Notation
+        - Tutorial 3: Brackets, Tables and Arrays
+        - Tutorial 4: Creating Lists
+        - Tutorial 5: Text Document Formatting
+        - Tutorial 6: Packages, Macros and Graphics
+        - Tutorial 7: Errors and Debugging
+        - Tutorial 8: TeXmaker and Overleaf Tips
+
+- Turn a python math function to LaTeX code - https://www.youtube.com/shorts/CrsFXEqQuPY
 
