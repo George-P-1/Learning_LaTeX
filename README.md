@@ -1,4 +1,4 @@
-# LaTeX
+# Learning LaTeX
 
 I will be using this repository to record my progress of learning LaTeX. 
 This includes:
@@ -47,7 +47,7 @@ The things I looked at to decide what to install, why and how.
     </details>
 
 
-#### Conclusion from Research: 
+### Conclusion from Research: 
 - VSCode > TeXStudio > TexMaker
 - Overleaf good for collaboration with others but same effect achieved with above options and proper git use.
 - All local versions need Perl to be installed for full functionality.
@@ -87,3 +87,11 @@ Learning material, tips and tricks, etc.
         - Tutorial 8: TeXmaker and Overleaf Tips
 
 - Turn a python math function to LaTeX code - https://www.youtube.com/shorts/CrsFXEqQuPY
+
+## About files generated during compilation
+
+- https://tex.stackexchange.com/questions/7770/file-extensions-related-to-latex-etc
+
+- .aux files - https://www.reddit.com/r/LaTeX/comments/12y6uip/aux_files/
+
+- https://www.dickimaw-books.com/latex/novices/html/auxiliary.html
