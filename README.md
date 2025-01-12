@@ -53,6 +53,25 @@ The things I looked at to decide what to install, why and how.
 - All local versions need Perl to be installed for full functionality.
 - Optional but probably useful extensions available in VSCode.
 
+## Installation
+
+Followed instructions from - https://www.youtube.com/watch?v=qy93QXnvo0M
+
+- First install MikTex.
+    - https://miktex.org/download - Download the basic installer.
+
+- Then install Strawberry Perl.
+    - https://strawberryperl.com - Download the MSI installer.
+
+- Then install LaTeX Workshop (by James Yu) extension in VScode.
+
+- Maybe also install TexStudio.
+    - https://www.texstudio.org
+
+## Using LaTeX Workshop in VSCode
+
+- An introduction - https://www.youtube.com/watch?v=vIImoKpKWIo
+
 ## Introduction to coding in LaTeX
 Learning material, tips and tricks, etc.
 
@@ -68,4 +87,3 @@ Learning material, tips and tricks, etc.
         - Tutorial 8: TeXmaker and Overleaf Tips
 
 - Turn a python math function to LaTeX code - https://www.youtube.com/shorts/CrsFXEqQuPY
-
