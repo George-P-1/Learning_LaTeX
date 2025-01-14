@@ -75,7 +75,12 @@ Followed instructions from - https://www.youtube.com/watch?v=qy93QXnvo0M
 ## Introduction to coding in LaTeX
 Learning material, tips and tricks, etc.
 
+- Official Website - https://www.latex-project.org
+
 - Quick Introduction - https://www.youtube.com/watch?v=lgiCpA4zzGU
+    - CTAN (TeX packages) - https://ctan.org
+    - LaTeX Math Cheatsheet - https://tug.ctan.org/info/undergradmath/undergradmath.pdf
+    - Drawing to LaTeX Tool - https://detexify.kirelabs.org/classify.html
 
 - freecodecamp - https://www.youtube.com/watch?v=ydOTMQC7np0
     - The tutorial files from the video are in the `michelle_krummel_files` directory.
