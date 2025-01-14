@@ -75,6 +75,8 @@ Followed instructions from - https://www.youtube.com/watch?v=qy93QXnvo0M
 ## Introduction to coding in LaTeX
 Learning material, tips and tricks, etc.
 
+- Quick Introduction - https://www.youtube.com/watch?v=lgiCpA4zzGU
+
 - freecodecamp - https://www.youtube.com/watch?v=ydOTMQC7np0
     - The tutorial files from the video are in the `michelle_krummel_files` directory.
         - Tutorial 1: Introduction
@@ -87,6 +89,8 @@ Learning material, tips and tricks, etc.
         - Tutorial 8: TeXmaker and Overleaf Tips
 
 - Turn a python math function to LaTeX code - https://www.youtube.com/shorts/CrsFXEqQuPY
+
+- Some info about using LaTeX Workshop - https://www.youtube.com/watch?v=triTgcyF_IA
 
 ## About files generated during compilation
 
